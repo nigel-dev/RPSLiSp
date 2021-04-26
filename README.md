@@ -1,7 +1,5 @@
 ## Rock Paper Scissors Lizard Spock
 
------
-
 CIT1203 Final Project Features
 * PyQT5 for UI (https://www.riverbankcomputing.com/software/pyqt/)
 * QT Material for Theme (https://github.com/UN-GCPDS/qt-material)
